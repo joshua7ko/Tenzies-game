@@ -25,6 +25,7 @@ main{
     flex-direction:column;
     justify-content: space-around;
     align-items: center;
+    border:4px outset rgb(12, 240, 4);
 
     
 }
