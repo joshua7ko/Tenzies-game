@@ -71,11 +71,12 @@ main{
     width:150px;
     border:none;
     border-radius: 10px;
-    background-color: #5035FF;
+    background-color: #1e08b0;
     color: white;
     font-size: 1.2rem;
     font-family: 'Karla', sans-serif;
     cursor: pointer;
+    border :3px outset black;
 
 }
 
