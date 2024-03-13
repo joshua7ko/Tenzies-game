@@ -26,6 +26,10 @@ main{
     justify-content: space-around;
     align-items: center;
     border:4px outset rgb(12, 240, 4);
+    box-shadow:0px 0px 20px #37c7de,
+    0px 0px 20px #37c7de,
+    0px 0px 20px #37c7de,
+    0px 0px 20px #37c7de;
 
     
 }
@@ -80,6 +84,13 @@ main{
 
 }
 
+.roll-dice:hover {
+    box-shadow:0px 0px 20px #37c7de,
+    0px 0px 20px #37c7de,
+    0px 0px 20px #37c7de,
+    0px 0px 20px #37c7de;
+
+}
 
 .roll-dice:focus {
     outline: none;
